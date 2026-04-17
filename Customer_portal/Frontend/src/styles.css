@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  background: #f4f6f9;
+  color: #0f172a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.dashboard-container {
+  padding: 30px;
+}
+
+.sub {
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+pre {
+  background: #111;
+  color: #0f0;
+  padding: 10px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
